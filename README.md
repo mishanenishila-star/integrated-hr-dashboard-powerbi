@@ -1,7 +1,7 @@
 ## 🔗 Live Dashboard
 
 **PowerBI Web**
-[(https://img.shields.io/badge/Power%20BI-Live%20Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]([YOUR_POWERBI_PUBLISH_TO_WEB_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMWUzMGIwYzEtYmFlOC00ODI4LTk4NmYtNGVjODc3YWEwNWJiIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9))
+[(https://img.shields.io/badge/Power%20BI-Live%20Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]([https://app.powerbi.com/view?r=eyJrIjoiMWUzMGIwYzEtYmFlOC00ODI4LTk4NmYtNGVjODc3YWEwNWJiIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9]
 
 
 ## 🛠️ Tools & Skills Used
