@@ -1,9 +1,30 @@
-# integrated-hr-dashboard-powerbi
-Integrated HR Dashboard for a Natural Foods Cluster – built in Power BI with a star schema data model in Excel. Covers workforce, attrition, performance &amp; financial KPIs for FY 2025/26.
+## 🔗 Live Dashboard
 
-**Tool:** Power BI Desktop  
-**Data Model:** Star Schema (Excel)  
-**Period:** FY 2025/2026 (Apr 2025 – Mar 2026)
+**PowerBI Web**
+[(https://img.shields.io/badge/Power%20BI-Live%20Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]([YOUR_POWERBI_PUBLISH_TO_WEB_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMWUzMGIwYzEtYmFlOC00ODI4LTk4NmYtNGVjODc3YWEwNWJiIiwidCI6IjUxYTBhNjljLTBlNGYtNGIzZC1iNjQyLTEyZTAxMzE5ODYzNSIsImMiOjh9))
+
+
+## 🛠️ Tools & Skills Used
+
+| Area | Details |
+|------|---------|
+| Visualisation | Power BI Desktop, Power BI Service |
+| Data Modelling | Star Schema, Excel Power Query |
+| DAX | Measures for Attrition Rate, OT Variance %, PDP Completion %, Emp Cost % |
+| Data Source | Excel (fact + dimension tables) |
+| Design | Multi-page navigation, KPI cards, gauge charts, drill-through tables |
+
+## 📊 Data Model (Star Schema)
+
+Designed and cleaned in Excel before importing into Power BI.
+
+**Fact Tables:**
+- Financials & Productivity (Revenue, Salary Cost, Headcount, Kgs/Head)
+- HR Metrics (Resignations, Attrition, PDP, Absenteeism)
+
+**Dimension Tables:**
+- Emp Master, Calendar, Cluster_Dim, KPIs
+
 
 ## Overview
 A multi-page HR analytics dashboard built for a natural foods manufacturing cluster 
@@ -26,10 +47,7 @@ attrition trends, performance KPIs, and financial-HR linkage.
 - OT Variance %, Absenteeism Rate
 - PDP Completion %, Internal Promotion %, Regrettable Loss %
 
-## Data Model
-Star schema designed in Excel with the following tables:
-- **Fact tables:** Financials & Productivity, HR Metrics
-- **Dimension tables:** Emp Master, Calendar, Cluster_Dim, KPIs
+
 
 ## Screenshots
 **Home**<img width="1496" height="837" alt="01_home" src="https://github.com/user-attachments/assets/76731a77-6a29-448b-b694-9b92367aff37" />
