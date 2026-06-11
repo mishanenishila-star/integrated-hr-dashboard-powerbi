@@ -32,7 +32,7 @@ Star schema designed in Excel with the following tables:
 - **Dimension tables:** Emp Master, Calendar, Cluster_Dim, KPIs
 
 ## Screenshots
-![Home]<img width="1496" height="837" alt="01_home" src="https://github.com/user-attachments/assets/76731a77-6a29-448b-b694-9b92367aff37" />
+*Home*<img width="1496" height="837" alt="01_home" src="https://github.com/user-attachments/assets/76731a77-6a29-448b-b694-9b92367aff37" />
 ![Executive Overview]<img width="1497" height="841" alt="02_executive_overview" src="https://github.com/user-attachments/assets/4bb7ac57-af84-4911-b3e3-a26bcf0603c7" />
 ![Workforce & Talent]<img width="1498" height="841" alt="03_workforce_talent" src="https://github.com/user-attachments/assets/6da7cec4-58f5-45df-8b19-e70cf8e0692d" />
 ![Performance & Development]<img width="1497" height="842" alt="04_performance_development" src="https://github.com/user-attachments/assets/5c53550f-1919-483c-bb06-d0317a84f01c" />
